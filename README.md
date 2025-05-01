@@ -1,4 +1,4 @@
-# 欢迎来到 Lean 的 LEDE 源码仓库
+# 欢迎来到 Lean 的 LEDE 源码仓库(forked)
 
 为国产龙芯 LOONGSON SoC loongarch64 / 飞腾 Phytium 腾锐 D2000 系列架构添加支持
 
